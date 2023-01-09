@@ -6,7 +6,9 @@ import SportsEsportsIcon from "@mui/icons-material/SportsEsports";
 import LiveTvIcon from "@mui/icons-material/LiveTv";
 import SchoolIcon from "@mui/icons-material/School";
 import FaceRetouchingNaturalIcon from "@mui/icons-material/FaceRetouchingNatural";
+import LocalMoviesIcon from "@mui/icons-material/LocalMovies";
 import CheckroomIcon from "@mui/icons-material/Checkroom";
+import WbSunnyIcon from "@mui/icons-material/WbSunny";
 import GraphicEqIcon from "@mui/icons-material/GraphicEq";
 import TheaterComedyIcon from "@mui/icons-material/TheaterComedy";
 import FitnessCenterIcon from "@mui/icons-material/FitnessCenter";
@@ -16,6 +18,8 @@ export const logo = "https://i.ibb.co/s9Qys2j/logo.png";
 
 export const categories = [
   { name: "New", icon: <HomeIcon /> },
+  { name: "Thailand", icon: <WbSunnyIcon /> },
+  { name: "DeusVultAI", icon: <LocalMoviesIcon /> },
   { name: "JS Mastery", icon: <CodeIcon /> },
   { name: "Coding", icon: <CodeIcon /> },
   { name: "ReactJS", icon: <CodeIcon /> },
