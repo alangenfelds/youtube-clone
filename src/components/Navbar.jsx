@@ -13,7 +13,7 @@ const Navbar = () => {
       p={2}
       sx={{
         position: "sticky",
-        backgrount: "#000",
+        background: "#000",
         top: 0,
         justifyContent: "space-between",
       }}
